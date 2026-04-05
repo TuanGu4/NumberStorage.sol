@@ -10,3 +10,4 @@ contract NumberStorage {
         number = _num;
     }
 }
+Clean up code

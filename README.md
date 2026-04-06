@@ -11,3 +11,4 @@ contract NumberStorage {
     }
 }
 Clean up code
+Simplify contract flow

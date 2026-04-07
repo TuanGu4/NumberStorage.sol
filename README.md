@@ -12,3 +12,4 @@ contract NumberStorage {
 }
 Clean up code
 Simplify contract flow
+Add input validation
